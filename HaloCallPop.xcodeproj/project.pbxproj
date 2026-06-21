@@ -83,7 +83,7 @@
 		A40000000000000000000003 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A20000000000000000000013 /* Halo Call Pop.app */,
+				A20000000000000000000013 /* halo-callpop-mac.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
