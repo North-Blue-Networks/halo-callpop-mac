@@ -1,0 +1,5 @@
+{
+  "middlewareUrl": "https://your-app.up.railway.app",
+  "callpopApiSecret": "your-callpop-api-secret",
+  "allowedPopUrlHosts": ["halopsa.com"]
+}

@@ -1,0 +1,20 @@
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+*.xcuserstate
+*.xcuserdata/
+DerivedData/
+build/
+.build/
+
+# macOS
+.DS_Store
+
+# Local config (never commit secrets)
+config.json
+
+# Archives
+*.xcarchive
+*.dmg
